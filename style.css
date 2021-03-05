@@ -1,0 +1,32 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+#wrapper{
+    width: 1000px;
+    padding: 30px;
+    margin: auto;
+    background-color: burlywood;
+}
+#wrapper h1{
+    align-items: center;
+    display: inline-block;
+    vertical-align: top;
+    margin-bottom: 30px;
+}
+#kazuma_images img{
+    width: 200px;
+    margin-right: 15px;
+    margin-left: 5px;
+    margin-bottom: 20px;
+}
+#wrapper button{
+    margin-top: 30px;
+    margin-left: 30px;
+    width: 100px;
+    height: 20px;
+    background-color: chartreuse;
+    padding: 0px 20px 20px 20px;
+    border: chartreuse;
+}
